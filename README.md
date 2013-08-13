@@ -13,4 +13,4 @@ There's a folder in this repository for each of the questions below. They all ha
 3. Duplicates
 
 ## Where?
-Please send your answers (as a compressed folder) to robs@brandwatch.com. Don't fork this repository or send in a pull request, since that would mean other applicants would be able to *cough* borrow *cough* your work.
+Please send your answers (as a compressed folder) to <robs@brandwatch.com>. Don't fork this repository or send in a pull request, since that would mean other applicants would be able to *cough* borrow *cough* your work.
